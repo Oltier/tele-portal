@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 888b6a177bf34af4cb3d7a672f302b0d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - restartText: {fileID: 13200002, guid: ce53258dcddf8ce4d8f9de64c0993acd, type: 2}
+  - gameOverText: {fileID: 13200000, guid: ce53258dcddf8ce4d8f9de64c0993acd, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 4886e8bb1ad6c6b4ca5188b3fd0ae28f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Footsteps: {fileID: 8300000, guid: b131e9d59519a8249b6786c9375853b2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

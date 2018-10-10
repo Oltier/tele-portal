@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 58606102a68d365449c9d19b2bdb3a5e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Orange: {fileID: 100002, guid: 9dcab943095144647b8c01f53920e47a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

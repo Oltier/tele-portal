@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: c2daece05d3074047a87289e2321df14
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - exitPortal: {instanceID: 0}
+  - PortSound: {fileID: 8300000, guid: bb1373e7198758940a20ec1d5e03f4f9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

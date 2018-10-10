@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 385e5289827719f40ba76f9f37455e45
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BlueBullet: {fileID: 400000, guid: fcb236cfa47a41f4fb58ffd5f213b1c2, type: 2}
+  - OrangeBullet: {fileID: 400000, guid: adee6aa8ca1890b4a8520b5527da39dc, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

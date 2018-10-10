@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 9909bb7b603c4ae4fa43687c49201309
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: polySurface104
+    100002: polySurface105
+    100004: polySurface106
+    100006: polySurface107
+    100008: polySurface108
+    100010: polySurface109
+    100012: polySurface112
+    100014: polySurface113
+    100016: polySurface114
+    100018: polySurface115
+    100020: polySurface116
+    100022: polySurface117
+    100024: polySurface119
+    100026: polySurface120
+    100028: polySurface121
+    100030: polySurface130
+    100032: polySurface148
+    100034: polySurface149
+    100036: polySurface150
+    100038: polySurface151
+    100040: polySurface152
+    100042: polySurface153
+    100044: polySurface154
+    100046: polySurface66
+    100048: polySurface71
+    100050: polySurface73
+    100052: polySurface84
+    100054: polySurface94
+    100056: //RootNode
+    100058: transform19
+    100060: transform20
+    100062: transform21
+    100064: transform22
+    100066: transform23
+    100068: transform24
+    100070: transform25
+    100072: transform26
+    100074: transform27
+    100076: transform28
+    100078: transform29
+    100080: transform30
+    100082: transform31
+    100084: transform32
+    100086: transform33
+    100088: transform34
+    100090: transform35
+    100092: transform36
+    100094: transform37
+    100096: transform38
+    100098: transform39
+    100100: transform40
+    100102: transform41
+    100104: transform42
+    100106: transform43
+    400000: polySurface104
+    400002: polySurface105
+    400004: polySurface106
+    400006: polySurface107
+    400008: polySurface108
+    400010: polySurface109
+    400012: polySurface112
+    400014: polySurface113
+    400016: polySurface114
+    400018: polySurface115
+    400020: polySurface116
+    400022: polySurface117
+    400024: polySurface119
+    400026: polySurface120
+    400028: polySurface121
+    400030: polySurface130
+    400032: polySurface148
+    400034: polySurface149
+    400036: polySurface150
+    400038: polySurface151
+    400040: polySurface152
+    400042: polySurface153
+    400044: polySurface154
+    400046: polySurface66
+    400048: polySurface71
+    400050: polySurface73
+    400052: polySurface84
+    400054: polySurface94
+    400056: //RootNode
+    400058: transform19
+    400060: transform20
+    400062: transform21
+    400064: transform22
+    400066: transform23
+    400068: transform24
+    400070: transform25
+    400072: transform26
+    400074: transform27
+    400076: transform28
+    400078: transform29
+    400080: transform30
+    400082: transform31
+    400084: transform32
+    400086: transform33
+    400088: transform34
+    400090: transform35
+    400092: transform36
+    400094: transform37
+    400096: transform38
+    400098: transform39
+    400100: transform40
+    400102: transform41
+    400104: transform42
+    400106: transform43
+    2300000: polySurface154
+    3300000: polySurface154
+    4300000: polySurface154
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: anisotropic1
+    second: {fileID: 2100000, guid: 4b528bd05ebf51d4fb1f1ed7581bcb55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mia_material_x1
+    second: {fileID: 2100000, guid: aeef0a35c41b4cb44a9b97c75ed79bf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong1
+    second: {fileID: 2100000, guid: 89a8a620e42fe014d89ef15094ab4600, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong10
+    second: {fileID: 2100000, guid: aa8a6c44fb036dd41a52511ddf738d17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong2
+    second: {fileID: 2100000, guid: fd6352024aad01d4d8459c2bd03ad8f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong3
+    second: {fileID: 2100000, guid: 3dad2767b626cc945b6821832475e345, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong4
+    second: {fileID: 2100000, guid: 414b2cc7f3010384cb752cccbf3cffd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong5
+    second: {fileID: 2100000, guid: d649064cbe7c01f47ac6f1212ad45483, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong6
+    second: {fileID: 2100000, guid: 58d98046afe8c774c911bf9436ac65af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong7
+    second: {fileID: 2100000, guid: 8cd05924c9a61a04da8b47e5e4a6131b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong8
+    second: {fileID: 2100000, guid: 0fc0720fce8f44c4fa30554b134bd72c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong9
+    second: {fileID: 2100000, guid: cdb32fd8c8fd58e4d804aa690329a794, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

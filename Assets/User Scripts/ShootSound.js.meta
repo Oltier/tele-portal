@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 01c16795cf5184343be81d6e20ce8f63
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bluePortal: {fileID: 8300000, guid: d0911e8df518d174c9fe154d7aeb3d8d, type: 3}
+  - orangePortal: {fileID: 8300000, guid: ffcc374d96565a24ba87eda23843730b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
